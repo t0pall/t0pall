@@ -4,7 +4,13 @@
 ### • 🤝 I believe that I will become a part of a friendly team of professionals
 ### • 📈 I dream to work on complex projects to grow on myself 
 
-<h2><a href='https://github.com/bvbsis'>🔗 There is my second GitHub profile</a></h2>
+# My second GitHub profile
+<h2><a href='https://github.com/bvbsis'>🔗 Link</a></h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
 
 # My stack:
 <div> 

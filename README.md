@@ -28,4 +28,4 @@
 </div>
 
 # My statistic:
-![GitHub Streak](https://streak-stats.demolab.com?user=t0pall&theme=transparent) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0pall&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=t0pall&theme=transparent&card_width=400) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0pall&show_icons=true&card_width=400)

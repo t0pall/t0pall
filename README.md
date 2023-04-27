@@ -2,12 +2,12 @@
 
 <h2><a href='https://github.com/bvbsis'>🔗 There is my second GitHub profile</a></h2>
 
-[![codewars](https://www.codewars.com/users/Igor%20Topal/badges/large)](https://www.codewars.com/users/Igor%20Topal)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
+[![codewars](https://www.codewars.com/users/Igor%20Topal/badges/large)](https://www.codewars.com/users/Igor%20Topal)
 
 <div> 
  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>

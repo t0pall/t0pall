@@ -2,13 +2,6 @@
 
 <h2><a href='https://github.com/bvbsis'>🔗 There is my second GitHub profile</a></h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
-
-[![codewars](https://www.codewars.com/users/Igor%20Topal/badges/large)](https://www.codewars.com/users/Igor%20Topal)
-
 # My stack:
 <div> 
  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -29,3 +22,4 @@
 
 # My statistic:
 ![GitHub Streak](https://streak-stats.demolab.com?user=t0pall&theme=transparent&card_width=400) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0pall&show_icons=true&card_width=400)
+[![codewars](https://www.codewars.com/users/Igor%20Topal/badges/large)](https://www.codewars.com/users/Igor%20Topal)

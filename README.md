@@ -7,9 +7,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=t0pall)](https://github.com/t0pall/t0pall)
 
 <div> 

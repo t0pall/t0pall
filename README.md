@@ -19,3 +19,4 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=t0pall&theme=transparent&card_width=1000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0pall&show_icons=true&card_width=1000)

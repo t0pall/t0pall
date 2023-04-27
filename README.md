@@ -1,6 +1,6 @@
 <img src="./загруженное.png"/>
 
-<h2><a href='https://github.com/bvbsis'>There is my second GitHub profile</a></h2>
+<h2><a href='https://github.com/bvbsis'>🔗 There is my second GitHub profile</a></h2>
 
 [![codewars](https://www.codewars.com/users/Igor%20Topal/badges/large)](https://www.codewars.com/users/Igor%20Topal)
 

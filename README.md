@@ -7,10 +7,10 @@
 # My second GitHub profile
 <h2><a href='https://github.com/bvbsis'>🔗 Link</a></h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bvbsis&repo=react-burger)](https://github.com/madushadhanushka/differ) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bvbsis&repo=algososh)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bvbsis&repo=mesto-project)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stelsp&repo=lubimovka)](https://github.com/madushadhanushka/differ)
 
 # My stack:
 <div> 

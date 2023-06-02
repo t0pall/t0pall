@@ -4,7 +4,7 @@
 ### • 🤝 I believe that I will become a part of a friendly team of professionals
 ### • 📈 I dream to work on complex projects to grow on myself 
 
-# My second GitHub profile
+# !My second GitHub profile!
 <h2><a href='https://github.com/bvbsis'>🔗 Link</a></h2>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bvbsis&repo=react-burger)](https://github.com/bvbsis/react-burger) 
